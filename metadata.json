@@ -1,0 +1,6 @@
+{
+  "name": "Gridfinity Studio — Parametric CAD",
+  "description": "Parametric Gridfinity CAD studio converting tool photographs on A4 paper into precision 3D-printable STL bins and 1:1 foam insert vectors.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
